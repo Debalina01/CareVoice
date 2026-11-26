@@ -1,0 +1,73 @@
+# .NET / C#
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+publish/
+out/
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.suo
+*.cache
+*.exe
+*.dll
+*.pdb
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+*.local.json
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+secrets/
+
+# EF Core / Local Databases & Uploaded Private Medical Files
+*.mdf
+*.ldf
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+medical_documents/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+
+# Android
+mobile/carevoice_app/android/app/debug/
+mobile/carevoice_app/android/app/release/
+*.apk
+*.aab
+*.keystore
+*.jks
+key.properties
+local.properties
+
+# iOS / macOS
+ios/Pods/
+ios/Runner.xcworkspace/
+*.ipa
+
+# OS, Hosting & Logs
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.log
+hosting.*.cache
+.firebase/

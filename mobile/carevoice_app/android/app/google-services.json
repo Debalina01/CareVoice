@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684454500465",
+    "project_id": "carevoice-health-app",
+    "storage_bucket": "carevoice-health-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684454500465:android:fde1076e5698267ff5e3d0",
+        "android_client_info": {
+          "package_name": "com.carevoice.carevoice_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxfMCcN5NA6qm6iKsAeH5G19reTjRuxZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
